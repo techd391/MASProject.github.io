@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MASProject.github.io/static/css/main.040b06af.css",
-    "main.js": "/MASProject.github.io/static/js/main.2a9e6e33.js",
+    "main.css": "/MASProject.github.io/static/css/main.84851efc.css",
+    "main.js": "/MASProject.github.io/static/js/main.b5327520.js",
     "index.html": "/MASProject.github.io/index.html",
-    "main.040b06af.css.map": "/MASProject.github.io/static/css/main.040b06af.css.map",
-    "main.2a9e6e33.js.map": "/MASProject.github.io/static/js/main.2a9e6e33.js.map"
+    "main.84851efc.css.map": "/MASProject.github.io/static/css/main.84851efc.css.map",
+    "main.b5327520.js.map": "/MASProject.github.io/static/js/main.b5327520.js.map"
   },
   "entrypoints": [
-    "static/css/main.040b06af.css",
-    "static/js/main.2a9e6e33.js"
+    "static/css/main.84851efc.css",
+    "static/js/main.b5327520.js"
   ]
 }
