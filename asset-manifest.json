@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MASProject.github.io/static/css/main.040b06af.css",
+    "main.js": "/MASProject.github.io/static/js/main.2a9e6e33.js",
+    "index.html": "/MASProject.github.io/index.html",
+    "main.040b06af.css.map": "/MASProject.github.io/static/css/main.040b06af.css.map",
+    "main.2a9e6e33.js.map": "/MASProject.github.io/static/js/main.2a9e6e33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.040b06af.css",
+    "static/js/main.2a9e6e33.js"
+  ]
+}
